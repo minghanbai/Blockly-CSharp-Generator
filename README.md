@@ -1,6 +1,6 @@
-# SharpBlocks: C# Visual Programming Tool
+# BlocklyGateway: Visual Programming Tool
 
-這是一個基於 Google Blockly 開發的視覺化 C# 程式碼生成器。
+這是一個基於 Google Blockly 開發的視覺化 程式碼生成器。
 專為大學程式設計基礎課程 (CS101) 設計，作為學生從圖形化邏輯過渡到純文字編碼 (Visual Studio / Unity) 的敲門磚。
 
 ## ✨ 主要功能
@@ -15,7 +15,7 @@
 
 ## 🚀 線上試用
 
-[點擊這裡使用工具](https://minghanbai.github.io/Blockly-CSharp-Generator/)
+[點擊這裡使用工具](https://minghanbai.github.io/Blockly-Gateway/)
 
 ## 🛠️ 如何使用
 
